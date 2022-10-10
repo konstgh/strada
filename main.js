@@ -45,6 +45,9 @@
 let value = true;
 alert (typeof value); 
 
+let value = true;
+alert (typeof value); 
+
 
 // console.log(typeof value)
 
